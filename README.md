@@ -1,6 +1,6 @@
 ## 👋 Hi there
 🔭 Currently workin on web applications <br/>
-🛢️ My stack is: HTML, CSS, JS, PHP <br/>
+🛢️ My stack is: HTML, CSS, JS, PHP  + (I guess) Python (Now)<br/>
 🌱 I’m currently learning Python (+ Fas API) and React JS <br/>
 ⚡ Fun fact: I'm not a fan of modern music
 

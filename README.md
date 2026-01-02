@@ -1,8 +1,8 @@
 ## 👋 Hi there
-## 🔭 Currently workin on web applications
-## 🛢️ My stack is: HTML, CSS, JS, PHP
-## 🌱 I’m currently learning Python (+ Fas API) and React JS
-## ⚡ Fun fact: I'm not a fan of modern music
+🔭 Currently workin on web applications
+🛢️ My stack is: HTML, CSS, JS, PHP
+🌱 I’m currently learning Python (+ Fas API) and React JS
+⚡ Fun fact: I'm not a fan of modern music
 
 <!--
 **RadiantMastermind/RadiantMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

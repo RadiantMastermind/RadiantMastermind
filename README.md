@@ -3,8 +3,9 @@
 🛢️ My stack is: HTML, CSS, JS, PHP  + (I guess) Python (Now)<br/>
 🌱 I’m currently learning Python (+ Fas API) and React JS <br/>
 ## 🌟 Facts about me:
-⚡ Fun fact #1: I'm not a fan of modern music
+⚡ Fun fact #1: I'm not a fan of modern music<br/>
 ⚡ Fun fact #2: My english is B2 level
+
 <!--
 **RadiantMastermind/RadiantMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

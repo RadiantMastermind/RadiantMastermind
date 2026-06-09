@@ -5,6 +5,8 @@
 ## 🌟 Facts about me:
 ⚡ Fun fact #1: I'm not a fan of modern music<br/>
 ⚡ Fun fact #2: My english is B2 level
+## Personal website:
+<a href="https://en.lugubris.ru/projects/">English Version</a>
 
 <!--
 **RadiantMastermind/RadiantMastermind** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

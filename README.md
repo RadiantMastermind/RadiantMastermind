@@ -6,7 +6,7 @@
 ⚡ Fun fact #1: I'm not a fan of modern music<br/>
 ⚡ Fun fact #2: My english is B2 level
 ## 🌍 Personal website:
-👉<a href="https://en.lugubris.ru/">English Version</a>
+👉<a href="https://en.lugubris.ru/">English Version</a><br/>
 👉<a href="https://lugubris.ru/">Russian Version</a>
 
 <!--
